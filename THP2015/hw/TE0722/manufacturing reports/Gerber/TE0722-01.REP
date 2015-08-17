@@ -1,0 +1,272 @@
+*************************************************************
+FileName = TE0722-01.GBR
+AutoAperture = True
+*************************************************************
+Generating : L 01
+      File : TE0722-01.GTL
+
+    Adding Layer      : L 01
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : L 06
+      File : TE0722-01.GBL
+
+    Adding Layer      : L 06
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D21
+    D24
+    D28
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TE0722-01.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : L 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TE0722-01.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : L 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D33
+    D34
+    D35
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TE0722-01.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : L 06
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D21
+    D28
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TE0722-01.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : L 06
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D21
+    D28
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Dim-Top-GM1
+      File : TE0722-01.GM1
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Layer      : Dim-Top-GM1
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Fab-Notes-GM5
+      File : TE0722-01.GM5
+
+    Adding Layer      : Fab-Notes-GM5
+
+    Adding Layer      : Dim-Top-GM1
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : TE0722-01.GD1
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Drill Pair : L 01-L 06
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D28
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TE0722-01.GG1
+
+    Adding Layer      : Dim-Top-GM1
+
+    Adding Drill Pair : L 01-L 06
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D28
+    D46
+*************************************************************
+

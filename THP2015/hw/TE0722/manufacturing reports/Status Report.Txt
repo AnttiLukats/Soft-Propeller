@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [TE0722-01-FULL] of PCB Document [TE0722.Pcbdoc]
+   Generated File[Export STEP.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:06:52 AM On 7/10/2015
