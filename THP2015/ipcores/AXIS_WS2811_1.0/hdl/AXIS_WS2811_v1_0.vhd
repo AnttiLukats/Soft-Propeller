@@ -30,8 +30,8 @@ end AXIS_WS2811_v1_0;
 
 architecture arch_imp of AXIS_WS2811_v1_0 is
 
-signal bitcount : std_logic_vector(4 downto 0);
-signal subbitcount : std_logic_vector(4 downto 0);
+signal bitcount : std_logic_vector(4 downto 0) := "10111";
+signal subbitcount : std_logic_vector(4 downto 0) := "10011";
 
 signal ws_shift_en : std_logic;
 signal ready : std_logic;
